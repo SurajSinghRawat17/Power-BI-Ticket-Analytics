@@ -1,4 +1,6 @@
-## IT Support Tickets — Power BI Analytics (Project 2)
+## Power BI Ticket Analytics Dashboard - Personal Portfolio Project
+
+**This project was developed independently for learning and portfolio purposes using a synthetic dataset. It does not contain any proprietary, confidential, client or employer data**
 
 An end-to-end Power BI project on a 100,000-row IT support ticket dataset — data modeling, DAX, and a 4-page interactive report with bookmarks.
 
